@@ -10,10 +10,6 @@ Public, lightweight curricula you can follow with an **AI Teacher**. Each guide 
 3. For each phase: ask the AI Teacher the listed questions, complete the small activity, and write a brief reflection.
 4. Share your progress (blog/LinkedIn) using the included `companion-post.md` as a starting point.
 
-## Featured curricula
-
-- [GCP Infrastructure as Code](curricula/gcp-iac/curriculum.md)
-
 ## Creating New Curricula
 
 ### Quick Start with AI Generation
