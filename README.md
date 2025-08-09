@@ -1,7 +1,7 @@
 
 # Cortivus Education
 
-Public, lightweight curricula you can follow with an **AI Teacher**. Each guide is hands-on, split into short phases, and uses plain-language prompts and small activities (no code required in activities).
+Public, lightweight curricula you can follow with an **AI Teacher**. Each guide is hands-on, split into short phases, and uses plain-language prompts and small activities (no code required in activities). You may need to tinker wiht the unstructions and/or prompts.  It does generate lint errors, but it does work.
 
 ## How to use
 
